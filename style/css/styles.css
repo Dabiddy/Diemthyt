@@ -35,7 +35,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 40px;
+    margin-top: 55px;
     margin-left: 20px;
     /* optional: adds some space between the buttons */
 }
@@ -62,5 +62,5 @@ body {
     display: block;
     justify-content: center;
     align-items: right;
-    margin-left: 160px;
+    margin-left: 155px;
 }
